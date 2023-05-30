@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/projekt2-spa-router/static/css/main.60f2807b.css",
+    "main.js": "/projekt2-spa-router/static/js/main.1940ae34.js",
+    "static/media/header1.jpg": "/projekt2-spa-router/static/media/header1.e210d6237c4df53a92ae.jpg",
+    "static/media/header3.jpg": "/projekt2-spa-router/static/media/header3.1b8172a4f8d865e14fe5.jpg",
+    "static/media/header2.jpg": "/projekt2-spa-router/static/media/header2.26d6661b147a114ff1c9.jpg",
+    "index.html": "/projekt2-spa-router/index.html",
+    "main.60f2807b.css.map": "/projekt2-spa-router/static/css/main.60f2807b.css.map",
+    "main.1940ae34.js.map": "/projekt2-spa-router/static/js/main.1940ae34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60f2807b.css",
+    "static/js/main.1940ae34.js"
+  ]
+}
